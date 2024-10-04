@@ -1,7 +1,7 @@
 # H2-Configuration-Spring
 Configuracion para base de datos H2
 
-#Dependencies
+# Dependencies
 <dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
